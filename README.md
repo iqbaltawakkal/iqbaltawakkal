@@ -4,9 +4,9 @@
 
 A Software Engineer specializing in Front End Web Development. Professional experience with the technologies listed in the **toolbox** below.
 
-I don't really use github repository as my day-to-day job, so all my repositories are only side project for fun!
+I don't really use github repository as my day-to-day job, so all my github repositories are only side project for fun!
 
-If you want to give me freelance project, hit me up on email iqbaltawakkal1@gmail.com.
+If you want to contract me on freelance project, hit me up on email iqbaltawakkal1@gmail.com.
 
 
 ---
